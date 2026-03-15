@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "POWER",
+  "base_artist": "Kanye West",
+  "createdAt": "2026-03-15T14:33:44.450054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Power of Positive Drinkin'",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/01_The_Power_of_Positive_Drinkin'_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take the Power Back",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/02_Take_the_Power_Back_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "03 - Take The Power Back",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/03_03_-_Take_The_Power_Back_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Raw Power",
+      "artist": "Guns N' Roses",
+      "has_synced": false,
+      "path": "select/04_Raw_Power_Guns_N'_Roses.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soft Power",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Soft_Power_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soft Power (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Soft_Power_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soft Power (Loz & Brendan Long remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_Soft_Power_(Loz_&_Brendan_Long_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soft Power (Loz & Brendan Long Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Soft_Power_(Loz_&_Brendan_Long_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soft Power - Vicarious Bliss Gutter Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Soft_Power_-_Vicarious_Bliss_Gutter_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soft Power (Vicarious Bliss Gutter Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/10_Soft_Power_(Vicarious_Bliss_Gutter_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mind Power",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/11_Mind_Power_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mind Power",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/12_Mind_Power_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Position of Power",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/13_Position_of_Power_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Position Of Power (Produced by Jonathan \"J.R.\" Rotem for Net Worth Entertainment)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/14_Position_Of_Power_(Produced_by_Jonathan__J.R.__Rotem_for_Net_Worth_Entertainment_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Power of the Dollar",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/15_Power_of_the_Dollar_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Solo Power (Let's Get Paid)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/16_Solo_Power_(Let's_Get_Paid)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POWER",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_POWER_Kanye_West.txt"
+    }
+  ]
+}
